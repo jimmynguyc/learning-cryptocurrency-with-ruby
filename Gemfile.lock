@@ -1,0 +1,14 @@
+GEM
+  specs:
+    minitest (5.11.1)
+    openssl (2.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest
+  openssl
+
+BUNDLED WITH
+   1.16.0.pre.3
